@@ -16,7 +16,7 @@ class _GridviewwidState extends State<Gridviewwid> {
     Container(
       child: 
         Card(
-          Text
+          Te
         ),
     ))
     ],
